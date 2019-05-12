@@ -10,3 +10,5 @@ I'm Australian and suffering from from three self imposed problems from our gove
 So the Australian way is to not whinge about problems and instead turn problems into solutions with what is called Australian ingenuity. This project is a call to "Crowd science" or "Crowd engineer" a solution.
 
 The third problem noted above may not be possible with the proposed solution and may actually make it worse but by solving the second problem we literally have more power to work on solving the third problem.
+
+I need to add I'm not a scientist or an engineer qualified to do this. I just want to try do something and inspire others to do the same or contribute.
